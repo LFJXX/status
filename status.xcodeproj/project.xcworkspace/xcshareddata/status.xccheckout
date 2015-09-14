@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F4836A32-6CE9-4414-A5B2-B8CC547A23CD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>status</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4FBF5192B26D4CABA52673981BF083BB4CB3E4AC</key>
+		<string>https://github.com/LFJXX/status.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>status.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4FBF5192B26D4CABA52673981BF083BB4CB3E4AC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/LFJXX/status.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4FBF5192B26D4CABA52673981BF083BB4CB3E4AC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4FBF5192B26D4CABA52673981BF083BB4CB3E4AC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>status</string>
+		</dict>
+	</array>
+</dict>
+</plist>
